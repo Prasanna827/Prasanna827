@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prasanna Padidapu</h1>
-<h3 align="center">I'm currently pursuing M.Tech in Artificial Intelligence(AI) and Data Science(DS) at KL University. I am mastering Machine Learning Algorithms, Data Structures and Algorithms(DSA), Java, Python, SDLC, Database Management Systems.</h3>
+<h1 align="center">Hello Everyone👋, I'm Prasanna Padidapu</h1>
+<h3 align="center">I'm currently pursuing M.Tech in Artificial Intelligence(AI) and Data Science(DS) at KL University.I am mastering Machine Learning Algorithms, Data Structures and Algorithms(DSA), Java, Python, SDLC, Database Management Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanna827&label=Profile%20views&color=0e75b6&style=flat" alt="prasanna827" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna827" alt="prasanna827" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Technologies**
 
