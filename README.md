@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prasanna Padidapu</h1>
-<h3 align="center">I'm currently pursuing M.Tech CSE with specialization Artificial Intelligence(AI) and Data Science(DS) at KL University.I am mastering Machine Learning Algorithms,Data Structures and Algorithms(DSA),Java,Python,Database Management Systems.</h3>
+<h3 align="center">**I'm currently pursuing M.Tech CSE with specialization Artificial Intelligence(AI) and Data Science(DS) at KL University.I am mastering Machine Learning Algorithms,Data Structures and Algorithms(DSA),Java,Python,Database Management Systems.**</h3>
 
-- 🌱 I’m currently learning **Full Stack Technologies**
+- 🌱 I’m currently learning ****Full Stack Technologies****
 
-- 👯 I’m looking to collaborate on **gitHub**
+- 👯 I’m looking to collaborate on ****gitHub****
 
 - 📫 How to reach me **prasanna1845589@gmail.com**
 
