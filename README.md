@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prasanna</h1>
-<h3 align="center">I am currently working as an Intern at Aumovio Continental,Bangalore and pursuing M.Tech’26 in Computer Science and Engineering at KL University. I am actively strengthening my skills in Machine Learning, DSA, Java, SDLC, Operating Systems, Python and DBMS.</h3>
+<h3 align="center">I am currently working as an Intern at Aumovio Continental,Bangalore and pursuing M.Tech’26 in CSE at KL University. I am actively strengthening my skills in Machine Learning, DSA, Java, SDLC, Operating Systems, Python and DBMS.</h3>
 
 - 💼 I’m currently Intern **Aumovio Continental**
 
