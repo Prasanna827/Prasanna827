@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Prasanna</h1>
 <h4 align="center">I am currently working as an Intern at Aumovio Continental,Bangalore and pursuing M.Tech’26 in CSE at KL University. I am actively strengthening my skills in Machine Learning, DSA, Java, SDLC, Operating Systems, Python and DBMS.</h4>
 
-- 💼 I’m currently Intern **Aumovio Continental**
+- 💼 I’m currently an Intern at **Aumovio Continental**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
