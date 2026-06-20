@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 🚀 Mastering **ML • DSA • Java • SDLC • OS • DBMS**
+- 🚀 Mastering **AI-ML •Generative AI • DSA • Java • LLMs & RAG • SDLC • OS • DBMS**
 
 - 📫 How to reach me **prasanna1845589@gmail.com**
 
