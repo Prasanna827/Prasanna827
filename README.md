@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub!  I’m Prasanna</h1>
-<h4 align="center">I am currently working as an Intern at Aumovio Continental,Bangalore and pursuing M.Tech’26 in CSE at KL University. I am actively strengthening my skills in Machine Learning, DSA, Java, SDLC, Operating Systems, Python and DBMS.</h4>
+<h4 align="center">I am currently working as an Java & AI Developer at Aumovio Pvt. Ltd (Continental), Bangalore and pursuing M.Tech’26 in CSE at KL University. I am actively strengthening my skills in Machine Learning, DSA, Java, SDLC, Operating Systems, Python and DBMS.</h4>
 
 - 💼 I’m currently an Intern at **Aumovio Continental**
 
