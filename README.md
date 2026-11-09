@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my GitHub!  I’m Prasanna</h1>
-<h4 align="center">Java & AI Developer with 1 year of experience at Aumovio Pvt. Ltd. (Continental), Bangalore | M.Tech’26 in CSE, KL University | Skills: Java, Python, DSA, Machine Learning, Generative AI (LLMs, Prompt Engineering, RAG), SDLC, Operating Systems, MYSQL, DBMS.</h4>
+<h4 align="center">Java & AI Developer with 1 year of experience at Aumovio Pvt. Ltd. (Continental), Bangalore   |  M.Tech’26 in CSE, KL University
+  Skills: Java, Python, DSA, Machine Learning, Generative AI (LLMs, Prompt Engineering, RAG), SDLC, Operating Systems, MYSQL, DBMS.</h4>
 
 - 💼  Java & AI Developer at **Aumovio Continental**
 
